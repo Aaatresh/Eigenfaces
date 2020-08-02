@@ -1,4 +1,4 @@
-## EigenFaces
+# EigenFaces
 
 References: [Eigenfaces for Recognition][1], [Low-dimensional procedure for the characterization of human faces][2].
 
@@ -10,7 +10,14 @@ This repository contains an implementation of this concept for face detection an
 
 
 Images source: http://resources.codingthematrix.com/faces.zip, http://resources.codingthematrix.com/unclassified.zip.
-I would like to express my gratitude to www.codingthematrix.com for providing the data.
+Thank you www.codingthematrix.com for providing the data.
+
+# Running Code
+Run cells of 
+```
+   ./eigenfaces.ipynb on jupyter notebook
+```
+to perform face detection and face recognition on the image data present in "./data/".
 
    [1]: <https://dl.acm.org/doi/10.1162/jocn.1991.3.1.71>
    [2]: <https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-4-3-519>
