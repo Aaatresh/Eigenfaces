@@ -1,6 +1,7 @@
 # EigenFaces
 
 Face detection and recognition without neural networks!!
+
 References: [Eigenfaces for Recognition][1], [Low-dimensional procedure for the characterization of human faces][2].
 
 ## Description
@@ -36,7 +37,7 @@ Contributors names and contact info:
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 Thank you www.codingthematrix.com for providing the data.
